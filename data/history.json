@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-21T13:18:27.518341+00:00",
+  "last_updated": "2026-08-21T13:47:15.760968+00:00",
   "models": {
     "bge-reranker-v2-m3-free": {
       "id": "bge-reranker-v2-m3-free",
@@ -10,7 +10,7 @@
         "jina-rerank"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-21T13:18:27.518341+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -34,18 +34,24 @@
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
       "last_seen": "2026-08-21T13:18:27.518341+00:00",
-      "is_active": true,
+      "is_active": false,
       "status_history": [
         {
           "status": "added",
           "timestamp": "2026-08-21T13:17:57.120363+00:00",
           "message": "First discovered"
+        },
+        {
+          "status": "offline",
+          "timestamp": "2026-08-21T13:47:15.760968+00:00",
+          "message": "No longer present in DMXAPI free models list"
         }
       ],
       "last_change": {
-        "type": "added",
-        "timestamp": "2026-08-21T13:17:57.120363+00:00"
-      }
+        "type": "offline",
+        "timestamp": "2026-08-21T13:47:15.760968+00:00"
+      },
+      "last_offline": "2026-08-21T13:47:15.760968+00:00"
     },
     "Qwen3.5-2B-free": {
       "id": "Qwen3.5-2B-free",
@@ -55,7 +61,7 @@
         "openai"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-21T13:18:27.518341+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -77,7 +83,7 @@
         "openai"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-21T13:18:27.518341+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
       "is_active": true,
       "status_history": [
         {
