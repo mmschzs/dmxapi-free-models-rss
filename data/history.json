@@ -1,0 +1,95 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-08-21T13:18:27.518341+00:00",
+  "models": {
+    "bge-reranker-v2-m3-free": {
+      "id": "bge-reranker-v2-m3-free",
+      "owned_by": "jina",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "jina-rerank"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:18:27.518341+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      }
+    },
+    "KAT-Coder-ProV2.5-free": {
+      "id": "KAT-Coder-ProV2.5-free",
+      "owned_by": "claude",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "anthropic",
+        "openai"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:18:27.518341+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      }
+    },
+    "Qwen3.5-2B-free": {
+      "id": "Qwen3.5-2B-free",
+      "owned_by": "custom",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "openai"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:18:27.518341+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      }
+    },
+    "spark-lite-free": {
+      "id": "spark-lite-free",
+      "owned_by": "openai",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "openai"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:18:27.518341+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      }
+    }
+  }
+}
