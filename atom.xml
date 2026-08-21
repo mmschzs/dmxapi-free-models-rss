@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DMXAPI 免费模型动态 | Free Models Feed</title>
+  <subtitle>实时追踪 DMXAPI 平台所有免费 AI 模型与可用端点更新 (https://www.dmxapi.cn)</subtitle>
+  <link href="https://mmschzs.github.io/dmxapi-free-models-rss/atom.xml" rel="self"/>
+  <link href="https://www.dmxapi.cn"/>
+  <id>urn:dmxapi:free-models:feed</id>
+  <updated>2026-08-21T13:47:15Z</updated>
+  <author>
+    <name>DMXAPI Free Models Bot</name>
+    <uri>https://www.dmxapi.cn</uri>
+  </author>
+  <entry>
+    <id>urn:dmxapi:model:bge-reranker-v2-m3-free</id>
+    <title>🟢 [jina] bge-reranker-v2-m3-free (Free)</title>
+    <link href="https://www.dmxapi.cn" rel="alternate"/>
+    <updated>2026-08-21T13:47:15Z</updated>
+    <published>2026-08-21T13:17:57Z</published>
+    <summary>DMXAPI Free Model: bge-reranker-v2-m3-free (Owned by jina). Status: Active.</summary>
+    <content type="html">&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
+  &lt;p&gt;&lt;strong&gt;🎯 模型名称:&lt;/strong&gt; &lt;code&gt;bge-reranker-v2-m3-free&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;⚡ 运行状态:&lt;/strong&gt; 🟢 正常可用 (Active)&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;jina&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;jina-rerank&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-21T13:47:15.760968+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
+  
+  &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
+  &lt;pre style="background: #1e293b; color: #f8fafc; padding: 12px; border-radius: 6px; overflow-x: auto; font-size: 13px;"&gt;&lt;code&gt;curl https://www.dmxapi.cn/v1/rerank \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $DMX_API_KEY" \
+  -d '{
+    "model": "bge-reranker-v2-m3-free",
+    "query": "What is artificial intelligence?",
+    "documents": [
+      "Artificial intelligence is intelligence demonstrated by machines.",
+      "Organic food refers to food produced by methods complying with standards of organic farming."
+    ]
+  }'&lt;/code&gt;&lt;/pre&gt;
+  
+  &lt;p style="margin-top: 14px; font-size: 13px; color: #64748b;"&gt;
+    提示：在 DMXAPI 控制台获取 API Key 后，将 &lt;code&gt;$DMX_API_KEY&lt;/code&gt; 替换为您自己的密钥即可免费调用。
+  &lt;/p&gt;
+&lt;/div&gt;</content>
+    <author>
+      <name>DMXAPI</name>
+      <uri>https://www.dmxapi.cn</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>urn:dmxapi:model:KAT-Coder-ProV2.5-free</id>
+    <title>🔴 [claude] KAT-Coder-ProV2.5-free (Offline)</title>
+    <link href="https://www.dmxapi.cn" rel="alternate"/>
+    <updated>2026-08-21T13:18:27Z</updated>
+    <published>2026-08-21T13:17:57Z</published>
+    <summary>DMXAPI Free Model: KAT-Coder-ProV2.5-free (Owned by claude). Status: Offline.</summary>
+    <content type="html">&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
+  &lt;p&gt;&lt;strong&gt;🎯 模型名称:&lt;/strong&gt; &lt;code&gt;KAT-Coder-ProV2.5-free&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;⚡ 运行状态:&lt;/strong&gt; 🔴 已下线 (Offline)&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;claude&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;anthropic, openai&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-21T13:18:27.518341+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
+  
+  &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
+  &lt;pre style="background: #1e293b; color: #f8fafc; padding: 12px; border-radius: 6px; overflow-x: auto; font-size: 13px;"&gt;&lt;code&gt;curl https://www.dmxapi.cn/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $DMX_API_KEY" \
+  -d '{
+    "model": "KAT-Coder-ProV2.5-free",
+    "messages": [
+      {"role": "user", "content": "Hello, introduce yourself!"}
+    ]
+  }'&lt;/code&gt;&lt;/pre&gt;
+  
+  &lt;p style="margin-top: 14px; font-size: 13px; color: #64748b;"&gt;
+    提示：在 DMXAPI 控制台获取 API Key 后，将 &lt;code&gt;$DMX_API_KEY&lt;/code&gt; 替换为您自己的密钥即可免费调用。
+  &lt;/p&gt;
+&lt;/div&gt;</content>
+    <author>
+      <name>DMXAPI</name>
+      <uri>https://www.dmxapi.cn</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>urn:dmxapi:model:Qwen3.5-2B-free</id>
+    <title>🟢 [custom] Qwen3.5-2B-free (Free)</title>
+    <link href="https://www.dmxapi.cn" rel="alternate"/>
+    <updated>2026-08-21T13:47:15Z</updated>
+    <published>2026-08-21T13:17:57Z</published>
+    <summary>DMXAPI Free Model: Qwen3.5-2B-free (Owned by custom). Status: Active.</summary>
+    <content type="html">&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
+  &lt;p&gt;&lt;strong&gt;🎯 模型名称:&lt;/strong&gt; &lt;code&gt;Qwen3.5-2B-free&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;⚡ 运行状态:&lt;/strong&gt; 🟢 正常可用 (Active)&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;custom&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-21T13:47:15.760968+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
+  
+  &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
+  &lt;pre style="background: #1e293b; color: #f8fafc; padding: 12px; border-radius: 6px; overflow-x: auto; font-size: 13px;"&gt;&lt;code&gt;curl https://www.dmxapi.cn/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $DMX_API_KEY" \
+  -d '{
+    "model": "Qwen3.5-2B-free",
+    "messages": [
+      {"role": "user", "content": "Hello, introduce yourself!"}
+    ]
+  }'&lt;/code&gt;&lt;/pre&gt;
+  
+  &lt;p style="margin-top: 14px; font-size: 13px; color: #64748b;"&gt;
+    提示：在 DMXAPI 控制台获取 API Key 后，将 &lt;code&gt;$DMX_API_KEY&lt;/code&gt; 替换为您自己的密钥即可免费调用。
+  &lt;/p&gt;
+&lt;/div&gt;</content>
+    <author>
+      <name>DMXAPI</name>
+      <uri>https://www.dmxapi.cn</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>urn:dmxapi:model:spark-lite-free</id>
+    <title>🟢 [openai] spark-lite-free (Free)</title>
+    <link href="https://www.dmxapi.cn" rel="alternate"/>
+    <updated>2026-08-21T13:47:15Z</updated>
+    <published>2026-08-21T13:17:57Z</published>
+    <summary>DMXAPI Free Model: spark-lite-free (Owned by openai). Status: Active.</summary>
+    <content type="html">&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
+  &lt;p&gt;&lt;strong&gt;🎯 模型名称:&lt;/strong&gt; &lt;code&gt;spark-lite-free&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;⚡ 运行状态:&lt;/strong&gt; 🟢 正常可用 (Active)&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-21T13:47:15.760968+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
+  
+  &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
+  &lt;pre style="background: #1e293b; color: #f8fafc; padding: 12px; border-radius: 6px; overflow-x: auto; font-size: 13px;"&gt;&lt;code&gt;curl https://www.dmxapi.cn/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $DMX_API_KEY" \
+  -d '{
+    "model": "spark-lite-free",
+    "messages": [
+      {"role": "user", "content": "Hello, introduce yourself!"}
+    ]
+  }'&lt;/code&gt;&lt;/pre&gt;
+  
+  &lt;p style="margin-top: 14px; font-size: 13px; color: #64748b;"&gt;
+    提示：在 DMXAPI 控制台获取 API Key 后，将 &lt;code&gt;$DMX_API_KEY&lt;/code&gt; 替换为您自己的密钥即可免费调用。
+  &lt;/p&gt;
+&lt;/div&gt;</content>
+    <author>
+      <name>DMXAPI</name>
+      <uri>https://www.dmxapi.cn</uri>
+    </author>
+  </entry>
+</feed>

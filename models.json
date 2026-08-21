@@ -1,0 +1,178 @@
+{
+  "generated_at": "2026-08-21T13:47:15.760968+00:00",
+  "api_base": "https://www.dmxapi.cn/v1",
+  "official_url": "https://www.dmxapi.cn",
+  "stats": {
+    "active_free_models": 3,
+    "total_discovered": 4,
+    "offline_models": 1
+  },
+  "active_models": [
+    {
+      "id": "bge-reranker-v2-m3-free",
+      "owned_by": "jina",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "jina-rerank"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      },
+      "curl_example": "curl https://www.dmxapi.cn/v1/rerank \\\n  -H \"Content-Type: application/json\" \\\n  -H \"Authorization: Bearer $DMX_API_KEY\" \\\n  -d '{\n    \"model\": \"bge-reranker-v2-m3-free\",\n    \"query\": \"What is artificial intelligence?\",\n    \"documents\": [\n      \"Artificial intelligence is intelligence demonstrated by machines.\",\n      \"Organic food refers to food produced by methods complying with standards of organic farming.\"\n    ]\n  }'"
+    },
+    {
+      "id": "Qwen3.5-2B-free",
+      "owned_by": "custom",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "openai"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      },
+      "curl_example": "curl https://www.dmxapi.cn/v1/chat/completions \\\n  -H \"Content-Type: application/json\" \\\n  -H \"Authorization: Bearer $DMX_API_KEY\" \\\n  -d '{\n    \"model\": \"Qwen3.5-2B-free\",\n    \"messages\": [\n      {\"role\": \"user\", \"content\": \"Hello, introduce yourself!\"}\n    ]\n  }'"
+    },
+    {
+      "id": "spark-lite-free",
+      "owned_by": "openai",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "openai"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      },
+      "curl_example": "curl https://www.dmxapi.cn/v1/chat/completions \\\n  -H \"Content-Type: application/json\" \\\n  -H \"Authorization: Bearer $DMX_API_KEY\" \\\n  -d '{\n    \"model\": \"spark-lite-free\",\n    \"messages\": [\n      {\"role\": \"user\", \"content\": \"Hello, introduce yourself!\"}\n    ]\n  }'"
+    }
+  ],
+  "history": {
+    "bge-reranker-v2-m3-free": {
+      "id": "bge-reranker-v2-m3-free",
+      "owned_by": "jina",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "jina-rerank"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      }
+    },
+    "KAT-Coder-ProV2.5-free": {
+      "id": "KAT-Coder-ProV2.5-free",
+      "owned_by": "claude",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "anthropic",
+        "openai"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:18:27.518341+00:00",
+      "is_active": false,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        },
+        {
+          "status": "offline",
+          "timestamp": "2026-08-21T13:47:15.760968+00:00",
+          "message": "No longer present in DMXAPI free models list"
+        }
+      ],
+      "last_change": {
+        "type": "offline",
+        "timestamp": "2026-08-21T13:47:15.760968+00:00"
+      },
+      "last_offline": "2026-08-21T13:47:15.760968+00:00"
+    },
+    "Qwen3.5-2B-free": {
+      "id": "Qwen3.5-2B-free",
+      "owned_by": "custom",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "openai"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      }
+    },
+    "spark-lite-free": {
+      "id": "spark-lite-free",
+      "owned_by": "openai",
+      "created": 1626777600,
+      "supported_endpoint_types": [
+        "openai"
+      ],
+      "first_seen": "2026-08-21T13:17:57.120363+00:00",
+      "last_seen": "2026-08-21T13:47:15.760968+00:00",
+      "is_active": true,
+      "status_history": [
+        {
+          "status": "added",
+          "timestamp": "2026-08-21T13:17:57.120363+00:00",
+          "message": "First discovered"
+        }
+      ],
+      "last_change": {
+        "type": "added",
+        "timestamp": "2026-08-21T13:17:57.120363+00:00"
+      }
+    }
+  }
+}
