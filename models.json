@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:17:12.778943+00:00",
+  "generated_at": "2026-08-22T20:16:19.924362+00:00",
   "api_base": "https://www.dmxapi.cn/v1",
   "official_url": "https://www.dmxapi.cn",
   "stats": {
@@ -16,7 +16,7 @@
         "jina-rerank"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-22T16:17:12.778943+00:00",
+      "last_seen": "2026-08-22T20:16:19.924362+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -39,7 +39,7 @@
         "openai"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-22T16:17:12.778943+00:00",
+      "last_seen": "2026-08-22T20:16:19.924362+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -62,7 +62,7 @@
         "openai"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-22T16:17:12.778943+00:00",
+      "last_seen": "2026-08-22T20:16:19.924362+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -87,7 +87,7 @@
         "jina-rerank"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-22T16:17:12.778943+00:00",
+      "last_seen": "2026-08-22T20:16:19.924362+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -138,7 +138,7 @@
         "openai"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-22T16:17:12.778943+00:00",
+      "last_seen": "2026-08-22T20:16:19.924362+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -160,7 +160,7 @@
         "openai"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-08-22T16:17:12.778943+00:00",
+      "last_seen": "2026-08-22T20:16:19.924362+00:00",
       "is_active": true,
       "status_history": [
         {
