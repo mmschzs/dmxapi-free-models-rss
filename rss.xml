@@ -6,19 +6,19 @@
     <description>实时追踪 DMXAPI 平台所有免费 AI 模型与可用端点更新 (https://www.dmxapi.cn)</description>
     <atom:link href="https://mmschzs.github.io/dmxapi-free-models-rss/rss.xml" rel="self" type="application/rss+xml"/>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 00:59:40 +0000</lastBuildDate>
     <item>
       <title>🟢 [jina] bge-reranker-v2-m3-free (Free)</title>
       <link>https://www.dmxapi.cn</link>
       <guid isPermaLink="false">dmxapi-free-model-bge-reranker-v2-m3-free</guid>
-      <pubDate>Sat, 22 Aug 2026 20:16:19 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 00:59:40 +0000</pubDate>
       <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
   &lt;p&gt;&lt;strong&gt;🎯 模型名称:&lt;/strong&gt; &lt;code&gt;bge-reranker-v2-m3-free&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;⚡ 运行状态:&lt;/strong&gt; 🟢 正常可用 (Active)&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;jina&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;jina-rerank&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
-  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-22T20:16:19.924362+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-23T00:59:40.195244+00:00&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
   
   &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
@@ -80,14 +80,14 @@
       <title>🟢 [custom] Qwen3.5-2B-free (Free)</title>
       <link>https://www.dmxapi.cn</link>
       <guid isPermaLink="false">dmxapi-free-model-Qwen3.5-2B-free</guid>
-      <pubDate>Sat, 22 Aug 2026 20:16:19 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 00:59:40 +0000</pubDate>
       <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
   &lt;p&gt;&lt;strong&gt;🎯 模型名称:&lt;/strong&gt; &lt;code&gt;Qwen3.5-2B-free&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;⚡ 运行状态:&lt;/strong&gt; 🟢 正常可用 (Active)&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;custom&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
-  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-22T20:16:19.924362+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-23T00:59:40.195244+00:00&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
   
   &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
@@ -113,14 +113,14 @@
       <title>🟢 [openai] spark-lite-free (Free)</title>
       <link>https://www.dmxapi.cn</link>
       <guid isPermaLink="false">dmxapi-free-model-spark-lite-free</guid>
-      <pubDate>Sat, 22 Aug 2026 20:16:19 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 00:59:40 +0000</pubDate>
       <description>&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
   &lt;p&gt;&lt;strong&gt;🎯 模型名称:&lt;/strong&gt; &lt;code&gt;spark-lite-free&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;⚡ 运行状态:&lt;/strong&gt; 🟢 正常可用 (Active)&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
-  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-22T20:16:19.924362+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-08-23T00:59:40.195244+00:00&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
   
   &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
