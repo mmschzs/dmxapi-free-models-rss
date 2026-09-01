@@ -5,7 +5,7 @@
   <link href="https://mmschzs.github.io/dmxapi-free-models-rss/atom.xml" rel="self"/>
   <link href="https://www.dmxapi.cn"/>
   <id>urn:dmxapi:free-models:feed</id>
-  <updated>2026-09-01T09:05:56Z</updated>
+  <updated>2026-09-01T15:57:03Z</updated>
   <author>
     <name>DMXAPI Free Models Bot</name>
     <uri>https://www.dmxapi.cn</uri>
@@ -14,7 +14,7 @@
     <id>urn:dmxapi:model:bge-reranker-v2-m3-free</id>
     <title>🟢 [jina] bge-reranker-v2-m3-free (Free)</title>
     <link href="https://www.dmxapi.cn" rel="alternate"/>
-    <updated>2026-09-01T09:05:56Z</updated>
+    <updated>2026-09-01T15:57:03Z</updated>
     <published>2026-08-21T13:17:57Z</published>
     <summary>DMXAPI Free Model: bge-reranker-v2-m3-free (Owned by jina). Status: Active.</summary>
     <content type="html">&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
@@ -23,7 +23,7 @@
   &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;jina&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;jina-rerank&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
-  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-09-01T09:05:56.520122+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-09-01T15:57:03.135721+00:00&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
   
   &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
@@ -88,7 +88,7 @@
     <id>urn:dmxapi:model:Qwen3.5-2B-free</id>
     <title>🟢 [custom] Qwen3.5-2B-free (Free)</title>
     <link href="https://www.dmxapi.cn" rel="alternate"/>
-    <updated>2026-09-01T09:05:56Z</updated>
+    <updated>2026-09-01T15:57:03Z</updated>
     <published>2026-08-21T13:17:57Z</published>
     <summary>DMXAPI Free Model: Qwen3.5-2B-free (Owned by custom). Status: Active.</summary>
     <content type="html">&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
@@ -97,7 +97,7 @@
   &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;custom&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
-  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-09-01T09:05:56.520122+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-09-01T15:57:03.135721+00:00&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
   
   &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
@@ -124,7 +124,7 @@
     <id>urn:dmxapi:model:spark-lite-free</id>
     <title>🟢 [openai] spark-lite-free (Free)</title>
     <link href="https://www.dmxapi.cn" rel="alternate"/>
-    <updated>2026-09-01T09:05:56Z</updated>
+    <updated>2026-09-01T15:57:03Z</updated>
     <published>2026-08-21T13:17:57Z</published>
     <summary>DMXAPI Free Model: spark-lite-free (Owned by openai). Status: Active.</summary>
     <content type="html">&lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6;"&gt;
@@ -133,7 +133,7 @@
   &lt;p&gt;&lt;strong&gt;🏢 归属/厂商 (owned_by):&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🔌 支持端点类型:&lt;/strong&gt; &lt;code&gt;openai&lt;/code&gt;&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;📅 首次发现时间:&lt;/strong&gt; 2026-08-21T13:17:57.120363+00:00&lt;/p&gt;
-  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-09-01T09:05:56.520122+00:00&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;🕒 最后检测时间:&lt;/strong&gt; 2026-09-01T15:57:03.135721+00:00&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;🌐 基础接入地址:&lt;/strong&gt; &lt;code&gt;https://www.dmxapi.cn/v1&lt;/code&gt;&lt;/p&gt;
   
   &lt;h4 style="margin-top: 16px; margin-bottom: 8px;"&gt;💻 快速调用测试 (cURL):&lt;/h4&gt;
