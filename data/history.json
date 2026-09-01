@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-01T19:13:37.336115+00:00",
+  "last_updated": "2026-09-01T22:19:10.324747+00:00",
   "models": {
     "bge-reranker-v2-m3-free": {
       "id": "bge-reranker-v2-m3-free",
@@ -10,7 +10,7 @@
         "jina-rerank"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-09-01T19:13:37.336115+00:00",
+      "last_seen": "2026-09-01T22:19:10.324747+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -61,7 +61,7 @@
         "openai"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-09-01T19:13:37.336115+00:00",
+      "last_seen": "2026-09-01T22:19:10.324747+00:00",
       "is_active": true,
       "status_history": [
         {
@@ -83,7 +83,7 @@
         "openai"
       ],
       "first_seen": "2026-08-21T13:17:57.120363+00:00",
-      "last_seen": "2026-09-01T19:13:37.336115+00:00",
+      "last_seen": "2026-09-01T22:19:10.324747+00:00",
       "is_active": true,
       "status_history": [
         {
